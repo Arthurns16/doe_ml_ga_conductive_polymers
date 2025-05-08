@@ -1,3 +1,11 @@
 # Experimental design, machine learning, and genetic algorithm to support the production of conductive polymer nanocomposites.
 
 This repository provides the datasets, scripts, and machine-learning models developed for the article “Experimental Design, Machine Learning, and Genetic Algorithm to Support the Production of Conductive Polymer Nanocomposites.” The study integrates materials-informatics methodologies into the sustainable development of advanced materials—approaches that can substantially reduce the extensive resources consumed by conventional trial-and-error methods. Specifically, five polymer matrix types, three conductive fillers, and two processing parameters were evaluated. This work is part of a larger project aimed at fabricating conductive filaments via 3D printing for the bipolar plates of proton-exchange-membrane (PEM) fuel cells.
+
+# Using the best-trained models.
+
+
+
+# Using the proposed methodology
+
+# Accessing the article.
