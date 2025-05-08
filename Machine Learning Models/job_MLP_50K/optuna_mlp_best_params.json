@@ -1,0 +1,15 @@
+{
+    "n_layers": 3,
+    "neurons": 3,
+    "activation": "logistic",
+    "solver": "lbfgs",
+    "alpha": 3.092166230303286e-05,
+    "batch_size": 14,
+    "learning_rate": "invscaling",
+    "learning_rate_init": 0.05263808111852234,
+    "tol": 3.0362952700266083e-06,
+    "early_stopping": false,
+    "n_iter_no_change": 448,
+    "max_fun": 91661,
+    "warm_start": true
+}
