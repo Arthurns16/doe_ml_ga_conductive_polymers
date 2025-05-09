@@ -54,13 +54,13 @@ Example of use:
 
 If you are interested in adapting the proposed methodology for another specific project, you should:
 
-  1.Navigate to the experimental design section and modify the code to generate a design suited to your own experiment. It is advisable to consult the PyDOE library documentation at https://pythonhosted.org/pyDOE/.
-  
-  2.For hyperparameter tuning of your models, we recommend using Optuna (https://optuna.org/). This stage will likely require access to a compute cluster.
-  
-  3.Adapt our genetic algorithm code to address the specific peculiarities of your problem.
-  
-  4.To generate informative visualizations of your models’ decision-making processes, we recommend the SHAP library.
+        1. Navigate to the experimental design section and modify the code to generate a design suited to your own experiment. It is advisable to consult the PyDOE library documentation at https://pythonhosted.org/pyDOE/.
+        
+        2. For hyperparameter tuning of your models, we recommend using Optuna (https://optuna.org/). This stage will likely require access to a compute cluster.
+        
+        3. Adapt our genetic algorithm code to address the specific peculiarities of your problem.
+        
+        4. To generate informative visualizations of your models’ decision-making processes, we recommend the SHAP library.
 
 # Accessing the article.
 
